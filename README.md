@@ -1,4 +1,4 @@
-# C++-Course-Project
+# Cpp Course-Project
 UCINET DL file reader for graphs: 
 https://gephi.org/users/supported-graph-formats/ucinet-dl-format/                                                                                                                                                                                  
 Use a file with “Edge list”, labels, and weighted edges.                                                                                                   
